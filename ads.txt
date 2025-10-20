@@ -775,3 +775,9 @@ conversantmedia.com, 100292, RESELLER, 03113cd04947736d
 improvedigital.com, 2669, RESELLER
 amxrtb.com, 105199956, RESELLER
 sharethrough.com, a6a34444, RESELLER
+blueroostermedia.com,1022,DIRECT
+lijit.com,539909,RESELLER,fafdf38b16bf6b2b
+tagoras.io,1f90819a4cb4c67be57ecf39973f1b97,DIRECT
+appnexus.com,15623,RESELLER,f5ab79cb980f11d1
+rubiconproject.com,25692,RESELLER,0bfd66d529a55807
+rubiconproject.com,25692,DIRECT,0bfd66d529a55807
